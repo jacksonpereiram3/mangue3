@@ -2,11 +2,11 @@
     @import url(font-awesome.min.css);
     @import url(ionicons.min.css);
     @import url(bootstrap.min.css);
-    @import url(animate.css);
-    @import url(photoswipe.css);
-    @import url(default-skin/default-skin.css);
-    @import url(jquery.mCustomScrollbar.css);
-    @import url(vegas.css);
+    @import url(animate.min.css);
+    @import url(photoswipe.min.css);
+    @import url(default-skin/default-skin.min.css);
+    @import url(jquery.mCustomScrollbar.min.css);
+    @import url(vegas.min.css);
     
     @import url("//fonts.googleapis.com/css?family=Montserrat:400,700");
     @import url("//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700");
@@ -978,7 +978,7 @@ sup {
   display: flex;
   -webkit-box-pack: center;
   -moz-box-pack: center;
-  box-pack: center;
+ 
   -webkit-justify-content: center;
   -moz-justify-content: center;
   -ms-justify-content: center;
@@ -987,7 +987,7 @@ sup {
   -ms-flex-pack: center;
   -webkit-box-align: center;
   -moz-box-align: center;
-  box-align: center;
+ 
   -webkit-align-items: center;
   -moz-align-items: center;
   -ms-align-items: center;

@@ -16,7 +16,5 @@
     "url": "https://github.com/myLead/mylead-web-prod/issues"
   },
   "homepage": "https://github.com/myLead/mylead-web-prod#readme",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+  "dependencies": {}
 }
